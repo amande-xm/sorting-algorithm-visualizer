@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+bin/
+target/
+build/
+
+# IDE specific files (Eclipse, IntelliJ, VS Code)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Mac OS specific
+.DS_Store
